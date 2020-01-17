@@ -1,0 +1,5 @@
+name: Start and endDate filters
+type: module
+description: This module create the start and end months filters
+core: 8.x
+package: dmpa
